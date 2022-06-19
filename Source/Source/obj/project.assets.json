@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\.net\\finalProject\\Source\\Source\\Source.csproj",
+      "projectUniqueName": "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\Source.csproj",
       "projectName": "Source",
-      "projectPath": "G:\\My Drive\\.net\\finalProject\\Source\\Source\\Source.csproj",
+      "projectPath": "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\Source.csproj",
       "packagesPath": "C:\\Users\\MyPC\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\.net\\finalProject\\Source\\Source\\obj\\",
+      "outputPath": "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MyPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

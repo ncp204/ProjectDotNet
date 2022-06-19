@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\My Drive\.net\finalProject\Source\Source\obj\Debug\net6.0-windows\
+G:\My Drive\.net\fineProject2\Source\Source\obj\Debug\net6.0-windows\
 Source
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-G:\My Drive\.net\finalProject\Source\Source\App.xaml
-11407045341
+G:\My Drive\.net\fineProject2\Source\Source\App.xaml
+41383728096
 
-3-1233169557
+8-1478293634
 194-97651837
-MainWindow.xaml;
+LoginView.xaml;MainWindow.xaml;Registration.xaml;Welcome.xaml;
 
-True
+False
 
