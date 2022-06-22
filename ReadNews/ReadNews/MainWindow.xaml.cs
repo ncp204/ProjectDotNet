@@ -31,12 +31,7 @@ namespace Source
             listArticles = new List<Article>()
             {
                 new Article("tit1 asdas","", new BitmapImage(new Uri("https://mysql.vi.downloadastro.com/wp-content/uploads/2022/06/mysql-110x84.jpeg"))),
-                new Article("tit2 asdas","", new BitmapImage(new Uri("D:/Users/dtphu/source/repos/Project repo/Projectfinal/ProjectDotNet/ReadNews/ReadNews/assets/Not_found.jpg"))),
-                new Article("tit3 asdas","", new BitmapImage(new Uri("D:/Users/dtphu/source/repos/Project repo/Projectfinal/ProjectDotNet/ReadNews/ReadNews/assets/Not_found.jpg"))),
-                new Article("tit4 asdas","", new BitmapImage(new Uri("D:/Users/dtphu/source/repos/Project repo/Projectfinal/ProjectDotNet/ReadNews/ReadNews/assets/Not_found.jpg"))),
-                new Article("tit5 asdas","", new BitmapImage(new Uri("D:/Users/dtphu/source/repos/Project repo/Projectfinal/ProjectDotNet/ReadNews/ReadNews/assets/Not_found.jpg"))),
-                new Article("tit6 asdas","", new BitmapImage(new Uri("D:/Users/dtphu/source/repos/Project repo/Projectfinal/ProjectDotNet/ReadNews/ReadNews/assets/Not_found.jpg"))),
-                new Article("tit7 asdas","", null)
+               
             };
 
             InitializeComponent();
