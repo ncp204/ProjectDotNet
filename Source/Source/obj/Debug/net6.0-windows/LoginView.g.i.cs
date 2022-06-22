@@ -79,13 +79,13 @@ namespace Source {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.5.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Source;component/loginview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Source;V1.0.0.0;component/loginview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\LoginView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -95,8 +95,43 @@ namespace Source {
         }
         
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.5.0")]
         [System.ComponentModel.EditorBrowsableAttribute(System.ComponentModel.EditorBrowsableState.Never)]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Design", "CA1033:InterfaceMethodsShouldBeCallableByChildTypes")]
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Maintainability", "CA1502:AvoidExcessiveComplexity")]
-        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performan
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1800:DoNotCastUnnecessarily")]
+        void System.Windows.Markup.IComponentConnector.Connect(int connectionId, object target) {
+            switch (connectionId)
+            {
+            case 1:
+            this.errormessage = ((System.Windows.Controls.TextBlock)(target));
+            return;
+            case 2:
+            this.textBoxEmail = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 3:
+            this.passwordBox1 = ((System.Windows.Controls.PasswordBox)(target));
+            return;
+            case 4:
+            this.btnLogin = ((System.Windows.Controls.Button)(target));
+            
+            #line 145 "..\..\..\LoginView.xaml"
+            this.btnLogin.Click += new System.Windows.RoutedEventHandler(this.btnLogin_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 5:
+            
+            #line 180 "..\..\..\LoginView.xaml"
+            ((System.Windows.Documents.Hyperlink)(target)).Click += new System.Windows.RoutedEventHandler(this.buttonRegister_Click);
+            
+            #line default
+            #line hidden
+            return;
+            }
+            this._contentLoaded = true;
+        }
+    }
+}
+

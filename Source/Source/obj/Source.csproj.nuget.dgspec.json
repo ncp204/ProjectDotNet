@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\Source.csproj": {}
+    "D:\\Users\\dtphu\\source\\repos\\Project repo\\Projectfinal\\ProjectDotNet\\Source\\Source\\Source.csproj": {}
   },
   "projects": {
-    "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\Source.csproj": {
+    "D:\\Users\\dtphu\\source\\repos\\Project repo\\Projectfinal\\ProjectDotNet\\Source\\Source\\Source.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\Source.csproj",
+        "projectUniqueName": "D:\\Users\\dtphu\\source\\repos\\Project repo\\Projectfinal\\ProjectDotNet\\Source\\Source\\Source.csproj",
         "projectName": "Source",
-        "projectPath": "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\Source.csproj",
-        "packagesPath": "C:\\Users\\MyPC\\.nuget\\packages\\",
-        "outputPath": "G:\\My Drive\\.net\\fineProject2\\Source\\Source\\obj\\",
+        "projectPath": "D:\\Users\\dtphu\\source\\repos\\Project repo\\Projectfinal\\ProjectDotNet\\Source\\Source\\Source.csproj",
+        "packagesPath": "C:\\Users\\djin\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\dtphu\\source\\repos\\Project repo\\Projectfinal\\ProjectDotNet\\Source\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MyPC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\djin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

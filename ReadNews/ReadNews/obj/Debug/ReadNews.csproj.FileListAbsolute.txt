@@ -1,0 +1,16 @@
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\bin\Debug\ReadNews.exe.config
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\bin\Debug\ReadNews.exe
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\bin\Debug\ReadNews.pdb
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.csproj.AssemblyReference.cache
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.csproj.SuggestedBindingRedirects.cache
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\MainWindow.g.cs
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\App.g.cs
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews_MarkupCompile.cache
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews_MarkupCompile.lref
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\MainWindow.baml
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.g.resources
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.Properties.Resources.resources
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.csproj.GenerateResource.cache
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.csproj.CoreCompileInputs.cache
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.exe
+D:\Users\dtphu\source\repos\Project repo\Projectfinal\ProjectDotNet\ReadNews\ReadNews\obj\Debug\ReadNews.pdb
