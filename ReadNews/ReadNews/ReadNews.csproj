@@ -59,6 +59,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="controller\BitmapImageConverter.cs" />
     <Compile Include="service\AccountService.cs" />
     <Compile Include="service\DetailService.cs" />
     <Page Include="MainWindow.xaml">
