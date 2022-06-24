@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\My Drive\.net\final6\ReadNews\ReadNews\obj\Debug\
+G:\My Drive\.net\final7\ReadNews\ReadNews\obj\Debug\
 ReadNews
 none
 false
 DEBUG;TRACE
-G:\My Drive\.net\final6\ReadNews\ReadNews\App.xaml
-1219584333
+G:\My Drive\.net\final7\ReadNews\ReadNews\App.xaml
+41021148932
 
-16132505660
-14177188285
-MainWindow.xaml;
+18194250455
+118457691786
+LoginView.xaml;MainWindow.xaml;Registration.xaml;TrangChu.xaml;
 
-True
+False
 

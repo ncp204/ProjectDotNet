@@ -13,7 +13,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using ReadNews.beans;
-using ReadNews.service;
 using ReadNews.dao;
 
 namespace ReadNews
@@ -70,9 +69,8 @@ namespace ReadNews
                 //adapter.Fill(dataSet);
                 //connect database check finish
                 //bool checkEqual = AccountService.getAccount(email, password);
-                //bool checkEqual = false;
                 Account checkEqual = AccountDao.getAccount(email, password);
-               
+
                 //if (dataSet.Tables[0].Rows.Count > 0)
                 if (checkEqual != null)
                 {

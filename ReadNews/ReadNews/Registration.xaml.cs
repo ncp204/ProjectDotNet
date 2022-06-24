@@ -12,6 +12,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using ReadNews.service;
 
 namespace ReadNews
 {
@@ -101,9 +102,21 @@ namespace ReadNews
                     //cmd.CommandType = CommandType.Text;
                     //cmd.ExecuteNonQuery();
                     //con.Close();
-                    errormessage.Foreground = Brushes.Green;
-                    errormessage.Text = "You have Registered successfully.";
-                    Reset();
+                    String username = firstname + " " + lastname;
+                    bool check = AccountService.register(email, username, password);
+                    if (check)
+                    {
+                        errormessage.Foreground = Brushes.Green;
+                        errormessage.Text = "You have Registered successfully.";
+                        Reset();
+                    }
+                    else
+                    {
+                        errormessage.Foreground = (Brush)new BrushConverter().ConvertFrom("#FFE5572C"); ;
+                        errormessage.Text = "register failed";
+                        Reset();
+                    }
+                    
                 }
             }
         }
