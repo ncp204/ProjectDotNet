@@ -1,0 +1,8 @@
+Form đăng nhập đăng ký: Thuận
+Form trang chủ:Phú
+Form chi tiết tin: B.Phúc
+Kết nối database(LinQ):	C.Phúc
+
+
+
+Tìm api kết nối trang web tin tức:
